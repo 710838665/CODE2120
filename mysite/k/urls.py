@@ -4,5 +4,5 @@ from . import views
 
 urlpatterns = [
 	path(r'ke/', views.ke),
-	path(r'AAA1/', views.AAA1)
+	path(r'AAA1/', views.AAA1),
 ]
